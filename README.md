@@ -1,5 +1,7 @@
 # gps
-gps for viking &amp; garmin
+
+various utilities for maintaining GPS data
+used with Viking & Garmin Mapsource
 
 delorme-gpx.awk
 --------------------------------------------------------------------------------
